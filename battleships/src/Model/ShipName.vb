@@ -11,3 +11,13 @@ Public Enum ShipName
     AircraftCarrier = 5
 End Enum
 
+//c# starts here
+public enum ShipName
+{
+None = 0,
+Tug = 1,
+Submarine = 2,
+Destroyer = 3,
+Battleship = 4,
+AircraftCarrier = 5
+}
